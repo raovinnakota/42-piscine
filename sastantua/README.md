@@ -1,11 +1,6 @@
 Sastantua is a figure building module written in C.
 
-The folder contains 4 files: The sastantua file, the main file, a putchar file, and the output binary. To run the program, run the command:
-```
-./a.out 5
-```
-
-The expected output:
+The folder contains 4 files: The sastantua file, the main file, a putchar file, and the output binary. The size of the pyramid is determined by the command line input. For example `./a.out 5` outputs:
 ```
                                   /*\
                                  /***\
